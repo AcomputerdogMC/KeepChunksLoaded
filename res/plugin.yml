@@ -1,0 +1,5 @@
+name: KeepChunksLoaded
+main: net.acomputerdog.keepchunksloaded.PluginKeepChunksLoaded
+version: 0.0.0
+description: Prevents chunks from unloading
+author: acomputerdog
